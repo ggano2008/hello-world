@@ -1,4 +1,5 @@
 int main()
 {
    printf("Bonjour and Guten tag");
+   return EXIT_SUCCESS;
 }
