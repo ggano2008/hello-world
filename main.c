@@ -3,10 +3,12 @@
 
 void f()
 {
+   // yo
 }
 
 void f2()
 {
+   // yé
 }
 
 int main()
