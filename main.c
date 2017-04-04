@@ -4,3 +4,7 @@ int main()
 
    return EXIT_SUCCESS;
 }
+
+void f()
+{
+}
