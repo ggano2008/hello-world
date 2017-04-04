@@ -1,4 +1,4 @@
 int main()
 {
-   printf("Guten tab");
+   printf("Bonjour and Guten tag");
 }
