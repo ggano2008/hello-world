@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+
 int main()
 {
    printf("Bonjour and Guten tag\n");
