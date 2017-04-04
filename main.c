@@ -8,3 +8,7 @@ int main()
 void f()
 {
 }
+
+void f2()
+{
+}
