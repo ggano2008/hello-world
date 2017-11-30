@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void f()
+void f1()
 {
    // yo
 }
