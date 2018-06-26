@@ -5,6 +5,7 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
+// à commenter pour NE PAS être en mode debug
 #define NDEBUG
 
 #endif
