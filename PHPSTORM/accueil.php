@@ -3,14 +3,17 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
 
-   <head>
-      <title></title>
-      <meta http-equiv="Content-Type"
-            content="text/html; charset=UTF-8" />
-   </head>
+    <head>
+        <title>Page d'accueil</title>
+        <meta http-equiv="Content-Type"
+              content="text/html; charset=UTF-8" />
+    </head>
 
-   <body>
-
-   </body>
+    <body>
+        <h1>Accueil</h1>
+        <p>
+            Bienvenu chez nous !
+        </p>
+    </body>
 
 </html>
